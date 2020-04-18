@@ -9,7 +9,7 @@ namespace OopCs
     /*
      * Represents a data object of type Student
      */
-    public class Student
+    public partial class Student
     {
         /*
          * Declare two strings as members of this classification
@@ -25,7 +25,10 @@ namespace OopCs
             _name = string.Empty;
             _lastName = string.Empty;
         }
+    }
 
+    public partial class Student
+    { 
         /*
          * Overloads the default constructor to accept parameters
          * these paremeters then get assigned to the class members declared above
