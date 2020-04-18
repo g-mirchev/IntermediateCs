@@ -1,0 +1,6 @@
+C:\K.G\DOCUMENTS\C#\IntermediateCs\StaticExtensionMethods\bin\Debug\StaticExtensionMethods.exe.config
+C:\K.G\DOCUMENTS\C#\IntermediateCs\StaticExtensionMethods\bin\Debug\StaticExtensionMethods.exe
+C:\K.G\DOCUMENTS\C#\IntermediateCs\StaticExtensionMethods\bin\Debug\StaticExtensionMethods.pdb
+C:\K.G\DOCUMENTS\C#\IntermediateCs\StaticExtensionMethods\obj\Debug\StaticExtensionMethods.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\IntermediateCs\StaticExtensionMethods\obj\Debug\StaticExtensionMethods.exe
+C:\K.G\DOCUMENTS\C#\IntermediateCs\StaticExtensionMethods\obj\Debug\StaticExtensionMethods.pdb
