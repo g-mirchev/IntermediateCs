@@ -1,0 +1,6 @@
+C:\K.G\DOCUMENTS\C#\IntermediateCs\OopCs\bin\Debug\OopCs.exe.config
+C:\K.G\DOCUMENTS\C#\IntermediateCs\OopCs\bin\Debug\OopCs.exe
+C:\K.G\DOCUMENTS\C#\IntermediateCs\OopCs\bin\Debug\OopCs.pdb
+C:\K.G\DOCUMENTS\C#\IntermediateCs\OopCs\obj\Debug\OopCs.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\C#\IntermediateCs\OopCs\obj\Debug\OopCs.exe
+C:\K.G\DOCUMENTS\C#\IntermediateCs\OopCs\obj\Debug\OopCs.pdb
