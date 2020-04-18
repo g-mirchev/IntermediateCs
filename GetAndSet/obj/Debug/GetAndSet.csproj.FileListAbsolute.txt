@@ -1,6 +1,5 @@
 C:\K.G\DOCUMENTS\C#\IntermediateCs\GetAndSet\bin\Debug\GetAndSet.exe.config
 C:\K.G\DOCUMENTS\C#\IntermediateCs\GetAndSet\bin\Debug\GetAndSet.exe
 C:\K.G\DOCUMENTS\C#\IntermediateCs\GetAndSet\bin\Debug\GetAndSet.pdb
-C:\K.G\DOCUMENTS\C#\IntermediateCs\GetAndSet\obj\Debug\GetAndSet.csprojAssemblyReference.cache
 C:\K.G\DOCUMENTS\C#\IntermediateCs\GetAndSet\obj\Debug\GetAndSet.exe
 C:\K.G\DOCUMENTS\C#\IntermediateCs\GetAndSet\obj\Debug\GetAndSet.pdb
