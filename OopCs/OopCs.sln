@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticExtensionMethods", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousAndNullable", "..\AnonymousAndNullable\AnonymousAndNullable.csproj", "{E147C22B-F319-422B-B750-E069FAE2664A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeStructure", "..\TimeStructure\TimeStructure.csproj", "{1AEE11BB-E954-4558-9691-3D22F405BA6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E147C22B-F319-422B-B750-E069FAE2664A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E147C22B-F319-422B-B750-E069FAE2664A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E147C22B-F319-422B-B750-E069FAE2664A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AEE11BB-E954-4558-9691-3D22F405BA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AEE11BB-E954-4558-9691-3D22F405BA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AEE11BB-E954-4558-9691-3D22F405BA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AEE11BB-E954-4558-9691-3D22F405BA6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
