@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousAndNullable", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeStructure", "..\TimeStructure\TimeStructure.csproj", "{1AEE11BB-E954-4558-9691-3D22F405BA6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheriatenceAndInterface", "..\InheriatenceAndInterface\InheriatenceAndInterface.csproj", "{BC837525-530A-4EB5-A32D-E8E25C9FD613}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1AEE11BB-E954-4558-9691-3D22F405BA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AEE11BB-E954-4558-9691-3D22F405BA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AEE11BB-E954-4558-9691-3D22F405BA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC837525-530A-4EB5-A32D-E8E25C9FD613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC837525-530A-4EB5-A32D-E8E25C9FD613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC837525-530A-4EB5-A32D-E8E25C9FD613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC837525-530A-4EB5-A32D-E8E25C9FD613}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
