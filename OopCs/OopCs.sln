@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheriatenceAndInterface", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericTypes", "..\GenericTypes\GenericTypes.csproj", "{BBAC481D-F08B-4BB5-8F78-19211338B726}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueStackHashtable", "..\QueueStackHashtable\QueueStackHashtable.csproj", "{AF9D5C06-03C9-4352-8712-4EBE0D545BB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BBAC481D-F08B-4BB5-8F78-19211338B726}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBAC481D-F08B-4BB5-8F78-19211338B726}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBAC481D-F08B-4BB5-8F78-19211338B726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9D5C06-03C9-4352-8712-4EBE0D545BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9D5C06-03C9-4352-8712-4EBE0D545BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9D5C06-03C9-4352-8712-4EBE0D545BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9D5C06-03C9-4352-8712-4EBE0D545BB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
