@@ -33,7 +33,7 @@ namespace ListDictionary
 
                 foreach(var item in studentTeacher)
                 {
-                    Console.WriteLine($"The teacher of {studentTeacher[item.Key]} is {studentTeacher[item.Value]}");
+                    Console.WriteLine($"The teacher of {item.Key} is {item.Value}");
                 }
 
                 Console.WriteLine();
