@@ -28,7 +28,7 @@ namespace ListDictionary
 
                 foreach(var student in students)
                 {
-                    studentTeacher.Add(student.Name, MapTeacher(student.Year))
+                    studentTeacher.Add(student.Name, MapTeacher(student.Year));
                 }    
 
                 foreach(var item in studentTeacher)
