@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Delegates
 {
+    /*
+     * Represents operations as enumerables
+     */
     public enum Operation
     {
         Sum,
